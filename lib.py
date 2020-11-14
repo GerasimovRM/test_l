@@ -4,3 +4,7 @@ def func(x):
 
 def func(x):
     return x * x * x
+
+
+def func3(x):
+    return x * x * x * x
